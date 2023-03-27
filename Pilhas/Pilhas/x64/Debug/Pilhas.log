@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\Aluno\Desktop\Pilhas\Pilhas\PilhaC.h(35): warning C4715: 'top': nem todos os caminhos de controle retornam um valor
+C:\Users\Aluno\Desktop\Pilhas\Pilhas\PilhaC.h(41): warning C4715: 'pop': nem todos os caminhos de controle retornam um valor
+  Pilhas.vcxproj -> C:\Users\Aluno\Desktop\Pilhas\x64\Debug\Pilhas.exe
