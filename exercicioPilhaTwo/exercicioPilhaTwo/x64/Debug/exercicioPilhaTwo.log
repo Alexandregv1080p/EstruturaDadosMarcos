@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\Aluno\Desktop\exercicioPilhaTwo\exercicioPilhaTwo\PilhaC.h(35): warning C4715: 'top': nem todos os caminhos de controle retornam um valor
+C:\Users\Aluno\Desktop\exercicioPilhaTwo\exercicioPilhaTwo\PilhaC.h(41): warning C4715: 'pop': nem todos os caminhos de controle retornam um valor
+  exercicioPilhaTwo.vcxproj -> C:\Users\Aluno\Desktop\exercicioPilhaTwo\x64\Debug\exercicioPilhaTwo.exe
