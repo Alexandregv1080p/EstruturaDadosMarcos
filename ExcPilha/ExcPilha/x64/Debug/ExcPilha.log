@@ -1,0 +1,4 @@
+﻿  exercicioPilhas.cpp
+C:\Users\Aluno\Desktop\ExcPilha\ExcPilha\PilhaC.h(35): warning C4715: 'top': nem todos os caminhos de controle retornam um valor
+C:\Users\Aluno\Desktop\ExcPilha\ExcPilha\PilhaC.h(41): warning C4715: 'pop': nem todos os caminhos de controle retornam um valor
+  ExcPilha.vcxproj -> C:\Users\Aluno\Desktop\ExcPilha\x64\Debug\ExcPilha.exe
