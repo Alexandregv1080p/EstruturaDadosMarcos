@@ -1,0 +1,8 @@
+﻿  Main2.cpp
+C:\Users\Aluno\Desktop\FREIRE\Filas\Filas\Fila.h(39): warning C4715: 'dequeue': nem todos os caminhos de controle retornam um valor
+Main2.obj : error LNK2005: "struct fila * __cdecl criaFila(int)" (?criaFila@@YAPEAUfila@@H@Z) já definida no Main.obj
+Main2.obj : error LNK2005: "char __cdecl dequeue(struct fila *)" (?dequeue@@YADPEAUfila@@@Z) já definida no Main.obj
+Main2.obj : error LNK2005: "void __cdecl enqueue(struct fila *,char)" (?enqueue@@YAXPEAUfila@@D@Z) já definida no Main.obj
+Main2.obj : error LNK2005: "char __cdecl isEmpty(struct fila *)" (?isEmpty@@YADPEAUfila@@@Z) já definida no Main.obj
+Main2.obj : error LNK2005: main já definida no Main.obj
+C:\Users\Aluno\Desktop\FREIRE\Filas\x64\Debug\Filas.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos
