@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Usuario\source\repos\FilasImple\FilasImple\Fila.h(49): warning C4715: 'Fila<char>::dequeue': nem todos os caminhos de controle retornam um valor
+C:\Users\Usuario\source\repos\FilasImple\FilasImple\Fila.h(49): warning C4715: 'Fila<int>::dequeue': nem todos os caminhos de controle retornam um valor
+  FilasImple.vcxproj -> C:\Users\Usuario\source\repos\FilasImple\x64\Debug\FilasImple.exe
